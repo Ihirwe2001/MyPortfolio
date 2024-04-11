@@ -55,38 +55,7 @@ function Contacts() {
         </div>
       </div>
 
-      <footer className="bg-gray-800 text-white py-6 mt-14">
-        <div className="container mx-auto flex flex-col md:flex-row justify-between items-center px-4">
-          <div>
-            <h3 className="text-xl font-bold">Contact Information</h3>
-            <p>Email: ihirweanitha07@gmail.com</p>
-            <p>Phone: 0712345678</p>
-            <p>City: Kigali, RWANDA</p>
-          </div>
-          <div className="mt-4 md:mt-0">
-            <h3 className="text-xl font-bold mb-2">Quick Links</h3>
-            <ul>
-              <li><a href="#portfolio" className="text-blue-400 hover:text-blue-200">Portfolio</a></li>
-              <li><a href="#services" className="text-blue-400 hover:text-blue-200">Services</a></li>
-              
-            </ul>
-          </div>
-          <div className="mt-4 md:mt-0">
-            <h3 className="text-xl font-bold mb-2">Connect with Me</h3>
-            <ul>
-              <li><a href="#" className="text-blue-400 hover:text-blue-200">LinkedIn</a></li>
-              <li><a href="#" className="text-blue-400 hover:text-blue-200">GitHub</a></li>
-              
-            </ul>
-          </div>
-        </div>
-      </footer>
       
-      
-
-
-
-
     </>
   );
 }
