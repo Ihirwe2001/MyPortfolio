@@ -6,7 +6,7 @@ function Contacts() {
     <>
     
 
-      <div className='grid grid-cols-2 bg-black'>
+      <div className='grid grid-cols-2 bg-gray-800'>
       
         <div>
           <h1 className='text-6xl text-white px-12 mt-10'>Contact Me</h1>
@@ -21,7 +21,7 @@ function Contacts() {
         </div>
 
        
-        <div className='w-1/2 ml-12'>
+        <div className='w-1/2 ml-12 mt-14'>
           <h2 className='text-3xl text-white mb-4'>Send me a Message</h2>
           <form>
             <div className="mb-4">
